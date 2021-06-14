@@ -14,3 +14,10 @@ pip install voila
 3. In terminal, Run  voila Alzheimer's severity classifier.ipynb
 4. Upload your MRI image. You can see like the following results,     
 ![](https://github.com/ramachandra742/Alzheimer-s-severity-classifier/blob/master/test%20image.png)
+
+
+
+
+
+Link to Binder,        
+https://mybinder.org/v2/gh/ramachandra742/Alzheimer-s-severity-classifier/c83db7d3309cdbd924180e496f854725db7a57c5
